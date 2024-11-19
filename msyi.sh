@@ -4,6 +4,7 @@ echo "
 🎉 :tada:                Initial commit
 🔖 :bookmark:            Version tag 
 ✨ :sparkles:            New feature
+👍 :+1:                  Small change
 🐛 :bug:                 Bug fix
 🗃️  :card_file_box:       Perform database related changes
 📚 :books:               Documentation
@@ -12,7 +13,7 @@ echo "
 ✅ :white_check_mark:    Adding a test
 ✔️  :heavy_check_mark:    Make a test pass
 ⚡ :zap:                 General update
-🎨 :art:                 Improve format/structure
+🎨 :art:                 UI change
 🔨 :hammer:              Refactor code
 🔥 :fire:                Removing codes/files
 ⬆️  :arrow_up:            Upgrading deps
